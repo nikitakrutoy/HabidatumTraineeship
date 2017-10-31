@@ -36,7 +36,7 @@ In oreder to investigate the areas, where people speak about renovation word2vec
 Using top50 words similar to "renovation" 2000 post was selected. This words was also used to build a cloud of words.
 After that LDA model was trained to compare the result topics with "rennovation" topic.
 
-More info could be found in [notebook](https://github.com/nikitakrutoy/habidatum_traineeship/blob/master/khrushevki/хрущевки2.ipynb)
+More info could be found in the [notebook](https://github.com/nikitakrutoy/habidatum_traineeship/blob/master/khrushevki/хрущевки2.ipynb)
 
 
 
