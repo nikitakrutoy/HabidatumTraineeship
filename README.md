@@ -21,7 +21,7 @@ Classification was done in order to estimate weights vector and find most import
 3 different classification models have been used: logic regression, decision tree and boosting.
 Models was traind with cross-validation on all data.
 
-f1_score valuse:
+f1_score values:
 
 |Models/Datasets | 33k  | 5k   |
 | -------------  |:----:| ----:|
